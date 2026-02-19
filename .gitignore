@@ -205,3 +205,37 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+__pycache__
+
+GML Reader portable
+src_dist
+build
+DOCX
+dist
+GML
+OBF
+venv
+env
+node
+
+*.gml
+*.exe
+*.venv
+*.ini
+*.exe
+*.spec
+*.xlsx
+*.docx
+*.csv
+*.log
+*.db
+*.bak
+*.json
+
+#Kompilator GML.iss
+Parsed_GML.gml
+GML.xlsx
+GML.spec
+log.log
